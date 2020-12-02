@@ -1,0 +1,20 @@
+{
+  "name": "web-edit-html",
+  "version": "1.0.0",
+  "description": "- 启动服务 创建文件夹 - 创建 html文件 - 编辑 html文件   - 文件颜色样式 - 可预览 html 文件 - 保存 html 文件 - 可以加入少量的 js - 发布到github上，然后github自动拉取",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang90/web-edit-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wang90/web-edit-html/issues"
+  },
+  "homepage": "https://github.com/wang90/web-edit-html#readme"
+}
